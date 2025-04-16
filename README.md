@@ -289,7 +289,6 @@ Aqui entram técnicas modernas que potencializam o ML:
     
 
 ---
-
 ---
 
 
@@ -298,3 +297,109 @@ Hierarchical clustering
 DBSCAN
 
 PCA (Análise de Componentes Principais)
+
+---
+# Aula 3
+
+1. Introdução à Inteligência Artificial Generativa
+IA Generativa é um tipo de IA capaz de criar conteúdo novo, como:
+
+Texto (artigos, histórias, código)
+
+Imagens (obras de arte, rostos fictícios)
+
+Música, vídeos e até modelos 3D
+
+Esses modelos aprendem padrões a partir de grandes volumes de dados e os usam para gerar coisas novas e coerentes com o estilo dos dados de treino.
+
+2. O que são Modelos de Linguagem de Grande Escala (LLMs)?
+LLMs (Large Language Models) são modelos treinados com bilhões ou trilhões de palavras para entender e gerar linguagem natural.
+
+Exemplos famosos:
+
+GPT (OpenAI)
+
+BERT (Google)
+
+LLaMA (Meta)
+
+Claude (Anthropic)
+
+Eles aprendem a prever a próxima palavra com base no contexto, o que permite gerar textos completos, responder perguntas, traduzir, escrever código, etc.
+
+3. Modelos de Diffusion: Introdução
+Modelos de Diffusion são usados principalmente para gerar imagens e vídeos realistas.
+
+Funcionam assim:
+
+Começam com ruído aleatório
+
+Vão "limpando" esse ruído passo a passo até formar uma imagem coerente
+
+Exemplos: DALL·E 2, Stable Diffusion, Midjourney
+
+4. IA Generativa na Música
+A IA pode:
+
+Compor melodias
+
+Criar batidas e harmonias
+
+Adaptar estilos musicais (ex: gerar uma música no estilo de Bach ou Lo-fi)
+
+Ferramentas conhecidas: Amper Music, AIVA, Soundraw
+
+Uso prático: trilhas sonoras para jogos, vídeos, comerciais, etc.
+
+5. IA Generativa na Programação
+Modelos como o GitHub Copilot (baseado em GPT) ajudam programadores a:
+
+Completar código automaticamente
+
+Gerar funções inteiras com comentários
+
+Explicar trechos de código
+
+Acelerar o desenvolvimento
+
+É como ter um assistente de programação com você.
+
+6. Comparação entre IA Generativa e Tradicional
+
+Aspecto	IA Tradicional	IA Generativa
+Foco	Classificação, previsão	Criação de conteúdo novo
+Exemplo	Detectar se um e-mail é spam	Escrever um e-mail com base em contexto
+Técnicas comuns	Regressão, SVM, Árvores	LLMs, GANs, Diffusion, Transformers
+Requisitos de dados	Dados rotulados	Muitos dados, nem sempre rotulados
+7. Desafios Éticos da IA Generativa e o Futuro
+Desafios Éticos:
+
+Desinformação e deepfakes
+
+Plágio e uso indevido de conteúdo gerado
+
+Preconceitos (bias) nos modelos
+
+Uso malicioso (ex: phishing automatizado)
+
+Futuro da IA Generativa:
+
+Ferramentas mais seguras e explicáveis
+
+Regulações e diretrizes éticas
+
+Modelos mais eficientes e personalizados
+
+Integração em mais áreas: educação, medicina, indústria
+
+8. Integração de IA Generativa em Negócios
+Empresas já estão usando IA generativa para:
+
+✅ Marketing: geração de conteúdo, anúncios e posts
+✅ Atendimento ao cliente: chatbots com linguagem natural
+✅ Design: geração de layouts, logos e imagens
+✅ RH: criação de descrições de vaga e triagem de currículos
+✅ Programação: automação e assistência em código
+
+Resultado: redução de custos, aumento de produtividade, personalização em escala.
+---
