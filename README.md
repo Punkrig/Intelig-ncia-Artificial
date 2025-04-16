@@ -660,3 +660,231 @@ Empresas já estão usando IA generativa para:
     
 
 ------
+
+# Aula 5
+---
+### **1. Introdução à Infraestrutura e Implementação Prática**
+
+- Trata da **estrutura tecnológica** que permite treinar, testar e colocar modelos de IA em produção.
+    
+- Envolve:
+    
+    - **Hardware (GPU, TPU, servidores)**
+        
+    - **Software (frameworks de IA, bibliotecas de ML)**
+        
+    - **Plataformas (nuvem, edge, clusters distribuídos)**
+        
+
+---
+
+### **2. Frameworks e Bibliotecas: Visão Geral**
+
+Principais ferramentas:
+
+- **TensorFlow** (Google)
+    
+- **PyTorch** (Meta)
+    
+- **Scikit-learn** (ML tradicional)
+    
+- **Hugging Face** (LLMs e NLP)
+    
+- **Keras** (API de alto nível para TensorFlow)
+    
+- **ONNX** (interoperabilidade entre frameworks) Cada uma tem foco em áreas e perfis diferentes de desenvolvimento.
+    
+
+---
+
+### **3. TensorFlow: Estrutura e Aplicações**
+
+- Desenvolvido pelo Google.
+    
+- Bom para **produção, escalabilidade e compatibilidade com TPUs**.
+    
+- Usado muito em:
+    
+    - Visão computacional
+        
+    - NLP
+        
+    - Deploy com TensorFlow Serving ou TFLite (para edge)
+        
+
+---
+
+### **4. PyTorch: Estrutura e Aplicações**
+
+- Foco em **pesquisa e prototipagem rápida**
+    
+- Usa **modo dinâmico (define o grafo na hora)**
+    
+- Muito utilizado em:
+    
+    - Deep Learning
+        
+    - Visão computacional (com TorchVision)
+        
+    - NLP (com Transformers da Hugging Face)
+        
+- Facilidade para debug
+    
+
+---
+
+### **5. Hugging Face: Modelos Pré-treinados e Aplicações**
+
+- Repositório com milhares de **modelos pré-treinados de NLP, visão, áudio, etc.**
+    
+- Exemplos:
+    
+    - BERT, GPT-2/3, T5, Whisper, Stable Diffusion
+        
+- Biblioteca `transformers` é central para usar modelos de LLM
+    
+- Integração com PyTorch, TensorFlow e até ONNX
+    
+
+---
+
+### **6. Scikit-learn: Ferramentas para Machine Learning**
+
+- Focado em **ML tradicional** (sem redes neurais profundas):
+    
+    - Regressão, árvores, SVMs, clustering
+        
+- Fácil de usar, ótimo para iniciantes
+    
+- Integra bem com Pandas e NumPy
+    
+
+---
+
+### **7. Implementação Prática de Modelos: Do Treinamento ao Deployment**
+
+Etapas:
+
+1. **Pré-processamento de dados**
+    
+2. **Treinamento**
+    
+3. **Validação e ajuste**
+    
+4. **Salvamento do modelo**
+    
+5. **Deployment (API REST, microserviços, edge, etc.)**
+    
+6. **Monitoramento pós-deploy**
+    
+
+---
+
+### **8. Computação Distribuída: Conceitos e Benefícios**
+
+- Treinamento em **vários dispositivos ao mesmo tempo** (GPUs, nós, data centers)
+    
+- Usado para **modelos grandes ou dados massivos**
+    
+- Bibliotecas: Horovod, Dask, Ray, PyTorch Distributed
+    
+
+---
+
+### **9. Aceleração via GPUs: Como Funciona**
+
+- GPUs são otimizadas para **operações paralelas** (ex: matrizes, vetores)
+    
+- Acelera muito o treino de redes neurais
+    
+- Usadas tanto em **laboratórios quanto em nuvem** (AWS, GCP, Azure)
+    
+
+---
+
+### **10. Aceleração via TPUs: Vantagens e Aplicações**
+
+- TPUs (Tensor Processing Units) são processadores feitos **especialmente para TensorFlow**
+    
+- Mais eficientes para **inferência e grandes lotes de dados**
+    
+- Usadas pelo Google em modelos como BERT e AlphaGo
+    
+
+---
+
+### **11. IA em Edge Computing: Conceitos e Aplicações**
+
+- Rodar IA **fora da nuvem**, em dispositivos locais: celulares, câmeras, sensores
+    
+- Benefícios:
+    
+    - Menor latência
+        
+    - Economia de banda
+        
+    - Privacidade de dados
+        
+
+---
+
+### **12. Desenvolvimento de Modelos para Edge Computing**
+
+- Ferramentas como:
+    
+    - **TensorFlow Lite**
+        
+    - **ONNX Runtime Mobile**
+        
+    - **Core ML (Apple)**
+        
+- Modelos precisam ser:
+    
+    - Compactos (quantização, poda)
+        
+    - Otimizados para baixo consumo
+        
+
+---
+
+### **13. Monitoramento e Manutenção de Modelos em Produção**
+
+- Após o deploy, é essencial:
+    
+    - Monitorar performance do modelo (acurácia, latência)
+        
+    - Detectar **drift** nos dados
+        
+    - Atualizar ou re-treinar quando necessário
+        
+- Ferramentas: MLflow, Prometheus, Evidently AI
+    
+
+---
+
+### **14. Tendências Futuras em Infraestrutura de IA**
+
+- **IA como serviço (AIaaS)**
+    
+- **Modelos fundacionais** treinados uma vez e ajustados com poucos dados
+    
+- **Infraestrutura serverless e autoescalável**
+    
+- **IA híbrida (cloud + edge)**
+    
+- **Ferramentas de otimização automática (AutoML + hardware-aware tuning)**
+    
+
+---
+
+### **15. Ferramentas de Colaboração para Equipes de IA**
+
+- Git e GitHub para versionamento
+    
+- MLflow para rastreamento de experimentos
+    
+- Weights & Biases (W&B) para visualização e tracking
+    
+- DVC (Data Version Control)
+    
+- Jupyter + VSCode + Docker para ambientes compartilhados
