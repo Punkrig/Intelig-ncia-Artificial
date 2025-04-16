@@ -888,3 +888,225 @@ Etapas:
 - DVC (Data Version Control)
     
 - Jupyter + VSCode + Docker para ambientes compartilhados
+
+
+# Perguntas e Respostas
+## 🧠 **Aula 1 – Introdução à IA**
+
+### ❓1. O que é Inteligência Artificial?
+
+**✅ Resposta:** É o campo da ciência da computação que desenvolve sistemas capazes de realizar tarefas que normalmente exigem inteligência humana, como reconhecer padrões, aprender, tomar decisões e entender linguagem natural.
+
+---
+
+### ❓2. Cite três aplicações reais de IA.
+
+**✅ Resposta:** Assistentes virtuais (Siri, Alexa), sistemas de recomendação (Netflix, Spotify), e carros autônomos.
+
+---
+
+### ❓3. Quem propôs o “Teste de Turing” e o que ele avalia?
+
+**✅ Resposta:** Alan Turing propôs o teste para avaliar se uma máquina pode se comportar como um ser humano em uma conversa.
+
+---
+
+### ❓4. Qual a diferença entre IA simbólica, Machine Learning e Deep Learning?
+
+**✅ Resposta:**
+
+- **IA Simbólica:** Usa regras fixas (“SE...ENTÃO…”).
+    
+- **ML:** Aprende com dados.
+    
+- **DL:** Usa redes neurais profundas para lidar com grandes volumes de dados.
+    
+
+---
+
+### ❓5. Dê exemplo de algoritmo de busca heurística.
+
+**✅ Resposta:** O algoritmo A* (A estrela).
+
+---
+
+### ❓6. O que é inferência estatística?
+
+**✅ Resposta:** É o processo de tirar conclusões sobre um conjunto de dados a partir de uma amostra, usando testes de hipóteses, estimativas e intervalos de confiança.
+
+---
+
+## 🤖 **Aula 2 – Aprendizado de Máquina**
+
+### ❓1. O que é Aprendizado de Máquina (ML)?
+
+**✅ Resposta:** É uma área da IA onde os algoritmos aprendem a partir de dados para fazer previsões ou decisões sem serem explicitamente programados.
+
+---
+
+### ❓2. O que é overfitting e underfitting?
+
+**✅ Resposta:**
+
+- **Overfitting:** Quando o modelo aprende demais, incluindo os ruídos dos dados.
+    
+- **Underfitting:** Quando o modelo é muito simples e não aprende o suficiente.
+    
+
+---
+
+### ❓3. O que é o dilema Bias-Variance?
+
+**✅ Resposta:** É o equilíbrio entre erro de viés (modelo muito simples) e erro de variância (modelo muito complexo). O objetivo é encontrar um meio-termo que generalize bem.
+
+---
+
+### ❓4. O que é um Perceptron?
+
+**✅ Resposta:** É o primeiro modelo de rede neural, criado por Frank Rosenblatt, usado para classificação binária.
+
+---
+
+### ❓5. Qual a vantagem do Multi-Layer Perceptron (MLP)?
+
+**✅ Resposta:** Ele possui múltiplas camadas ocultas, podendo resolver problemas mais complexos e não lineares.
+
+---
+
+### ❓6. Qual a função de uma CNN?
+
+**✅ Resposta:** Detectar padrões visuais em imagens, como bordas, formas e objetos. É usada em visão computacional.
+
+---
+
+### ❓7. Para que servem RNNs e LSTMs?
+
+**✅ Resposta:** Servem para lidar com dados sequenciais, como texto ou áudio. LSTMs conseguem memorizar informações por mais tempo que RNNs simples.
+
+---
+
+### ❓8. O que é Transfer Learning?
+
+**✅ Resposta:** É a técnica de reaproveitar modelos treinados em grandes conjuntos de dados para outras tarefas com menos dados.
+
+---
+
+## 🎨 **Aula 3 – IA Generativa**
+
+### ❓1. O que é IA Generativa?
+
+**✅ Resposta:** É a área da IA capaz de gerar conteúdo novo como textos, imagens, músicas e códigos, aprendendo a partir de grandes conjuntos de dados.
+
+---
+
+### ❓2. O que são LLMs (Large Language Models)?
+
+**✅ Resposta:** São modelos de linguagem treinados com grandes volumes de texto para entender e gerar linguagem natural, como GPT, BERT e LLaMA.
+
+---
+
+### ❓3. Como funcionam os modelos de diffusion?
+
+**✅ Resposta:** Começam com uma imagem totalmente ruidosa e vão removendo o ruído gradualmente até gerar uma imagem coerente.
+
+---
+
+### ❓4. Cite duas ferramentas de IA para criação musical.
+
+**✅ Resposta:** Amper Music e AIVA.
+
+---
+
+### ❓5. O que o GitHub Copilot faz?
+
+**✅ Resposta:** Ajuda programadores a completar código, gerar funções e entender trechos automaticamente usando IA.
+
+---
+
+### ❓6. Qual o modelo que revolucionou o NLP com atenção?
+
+**✅ Resposta:** O **Transformer**, apresentado no artigo “Attention is All You Need”.
+
+---
+
+## 🛡️ **Aula 4 – Segurança e Ética em IA**
+
+### ❓1. Quais são os principais riscos do uso da IA?
+
+**✅ Resposta:** Viés algorítmico, falta de transparência, perda de empregos, manipulação de informações, uso malicioso (deepfakes, vigilância em massa), e decisões automatizadas injustas.
+
+---
+
+### ❓2. O que é viés algorítmico?
+
+**✅ Resposta:** É quando um sistema de IA reproduz ou amplifica preconceitos existentes nos dados em que foi treinado, levando a decisões discriminatórias.
+
+---
+
+### ❓3. O que é uma IA explicável (XAI)?
+
+**✅ Resposta:** São modelos de IA cujas decisões podem ser compreendidas por humanos, aumentando a transparência e a confiança no sistema.
+
+---
+
+### ❓4. O que é accountability na IA?
+
+**✅ Resposta:** É a responsabilidade legal e ética sobre as ações e decisões tomadas por sistemas de IA, incluindo seus desenvolvedores e usuários.
+
+---
+
+### ❓5. Quais são princípios éticos fundamentais para o uso da IA?
+
+**✅ Resposta:** Transparência, justiça, privacidade, segurança, responsabilidade e inclusão.
+
+---
+
+### ❓6. Cite uma lei brasileira relacionada à proteção de dados.
+
+**✅ Resposta:** **LGPD (Lei Geral de Proteção de Dados Pessoais)** – regula o tratamento de dados pessoais por empresas e governos no Brasil.
+
+---
+
+### ❓7. O que são deepfakes e por que são perigosos?
+
+**✅ Resposta:** São vídeos ou áudios falsificados com IA, que imitam vozes e rostos humanos, podendo ser usados para desinformação, fraudes e manipulação.
+
+---
+
+## 🧭 **Aula 5 – IA e Sociedade**
+
+### ❓1. Como a IA impacta o mercado de trabalho?
+
+**✅ Resposta:** Automatiza tarefas repetitivas, cria novas profissões (ex: cientista de dados), mas também pode causar desemprego em setores menos qualificados.
+
+---
+
+### ❓2. A IA pode ajudar na inclusão social? Como?
+
+**✅ Resposta:** Sim. Pode criar tecnologias assistivas (ex: leitores de tela, legendas automáticas), melhorar acessos em educação e saúde, e personalizar atendimentos.
+
+---
+
+### ❓3. Quais os principais desafios sociais do uso da IA?
+
+**✅ Resposta:** Desigualdade no acesso à tecnologia, uso indevido, aumento de vigilância, e perda de autonomia em decisões humanas.
+
+---
+
+### ❓4. O que é alfabetização digital e por que ela é importante na era da IA?
+
+**✅ Resposta:** É a capacidade de entender e usar tecnologias digitais com consciência. Importante para que as pessoas usem IA de forma crítica e segura.
+
+---
+
+### ❓5. Como a IA pode contribuir para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU?
+
+**✅ Resposta:** Pode otimizar o uso de recursos, prever desastres ambientais, melhorar diagnósticos médicos, e personalizar educação, contribuindo com metas como saúde, educação e meio ambiente.
+
+---
+
+### ❓6. Por que é importante diversidade nas equipes que desenvolvem IA?
+
+**✅ Resposta:** Para evitar vieses, garantir representatividade e construir sistemas que atendam a diferentes grupos sociais de forma justa.
+
+---
