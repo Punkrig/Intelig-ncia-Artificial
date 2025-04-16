@@ -403,3 +403,172 @@ Empresas já estão usando IA generativa para:
 
 Resultado: redução de custos, aumento de produtividade, personalização em escala.
 ---
+# Aula 4
+---
+1. Tipos de Aplicações de IA
+Visão Computacional: reconhecimento facial, diagnóstico por imagem
+
+Processamento de Linguagem Natural (PLN): assistentes virtuais, tradução automática
+
+Robótica Inteligente: drones, robôs industriais
+
+Recomendações: Netflix, Spotify, Amazon
+
+Automação: chatbots, RPA (automação de processos robóticos)
+
+IA Criativa: geração de textos, músicas, artes
+
+2. Impacto Econômico da IA
+Produtividade: aumenta a eficiência em setores como logística, manufatura e atendimento
+
+Novas profissões: engenheiros de IA, analistas de dados, curadores de conteúdo de IA
+
+Automatização de empregos: tarefas repetitivas estão sendo substituídas
+
+Startups e inovação: boom de startups usando IA para resolver problemas específicos
+
+3. Impacto Social da IA
+Mudança no mercado de trabalho
+
+Acesso facilitado a serviços (educação, saúde)
+
+Desigualdade digital: países ou regiões sem acesso à IA ficam para trás
+
+Privacidade e vigilância: uso de IA para monitoramento pode gerar abusos
+
+4. Desafios da Implementação da IA
+Falta de dados de qualidade
+
+Infraestrutura tecnológica limitada
+
+Resistência cultural/organizacional
+
+Treinamento de equipes
+
+Custos iniciais altos
+
+5. IA e Sustentabilidade
+Monitoramento ambiental (satélites + IA)
+
+Previsão de desastres naturais
+
+Agricultura inteligente (uso de água e fertilizantes com precisão)
+
+Otimização de energia em fábricas e casas
+
+Redução do desperdício (cadeia logística)
+
+6. IA e Criatividade
+Criação de:
+
+Músicas (ex: IA que compõe como Mozart)
+
+Imagens e pinturas
+
+Histórias e roteiros
+
+Design gráfico e moda
+
+Ferramentas: DALL·E, ChatGPT, Runway, Canva com IA
+
+7. IA em Marketing e Vendas
+Personalização de anúncios
+
+Previsão de comportamento do consumidor
+
+Chatbots de atendimento
+
+Análise de sentimentos nas redes sociais
+
+Geração automática de conteúdo publicitário
+
+8. IA em Recursos Humanos
+Triagem de currículos
+
+Entrevistas com IA (análise de vídeo, voz)
+
+Avaliação de desempenho
+
+Onboarding automatizado
+
+Previsão de turnover (rotatividade de funcionários)
+
+9. IA e Internet das Coisas (IoT)
+Sensores inteligentes + IA = decisões automatizadas
+
+Exemplos:
+
+Casas inteligentes (termostatos, luzes, fechaduras)
+
+Cidades inteligentes (trânsito, lixo, segurança)
+
+Indústria 4.0 (manutenção preditiva)
+
+10. IA e Big Data
+IA analisa grandes volumes de dados (Big Data) com rapidez
+
+Encontra padrões que humanos não conseguiriam
+
+Usado para:
+
+Prever tendências de mercado
+
+Detectar fraudes
+
+Diagnósticos médicos baseados em exames
+
+11. IA e Robótica
+Robôs autônomos (movem-se e tomam decisões)
+
+Aplicações:
+
+Indústria (soldagem, montagem)
+
+Cirurgias assistidas por robôs
+
+Robôs domésticos (aspiradores, cuidadores)
+
+12. IA e Acessibilidade
+Leitores de tela com IA para pessoas cegas
+
+Reconhecimento de fala para surdos
+
+Tradução automática de linguagem de sinais
+
+Apps de navegação para pessoas com deficiência motora
+
+13. Ética e Responsabilidade na IA
+Evitar discriminação e preconceitos (bias)
+
+Transparência nos modelos
+
+Consentimento no uso de dados
+
+Responsabilização por decisões tomadas por IA
+
+14. Regulamentação da IA
+Países estão criando leis para:
+
+Proteger dados
+
+Evitar abusos da IA
+
+Garantir transparência e segurança
+
+Exemplos:
+
+AI Act (União Europeia)
+
+PL das Fake News (Brasil)
+
+15. Papel da IA na Educação
+Tutoria personalizada com IA
+
+Correção automática de tarefas
+
+Acompanhamento do desempenho do aluno
+
+Criação de conteúdo interativo
+
+Ferramentas como ChatGPT para apoio ao aprendizado
+---
